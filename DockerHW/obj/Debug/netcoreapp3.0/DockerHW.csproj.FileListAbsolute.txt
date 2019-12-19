@@ -1,0 +1,9 @@
+C:\Users\гороховв\source\repos\DockerHW\DockerHW\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\гороховв\source\repos\DockerHW\DockerHW\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\гороховв\source\repos\DockerHW\DockerHW\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\гороховв\source\repos\DockerHW\DockerHW\obj\Debug\netcoreapp3.0\DockerHW.csprojAssemblyReference.cache
+C:\Users\гороховв\source\repos\DockerHW\DockerHW\obj\Debug\netcoreapp3.0\staticwebassets\DockerHW.StaticWebAssets.Manifest.cache
+C:\Users\гороховв\source\repos\DockerHW\DockerHW\obj\Debug\netcoreapp3.0\staticwebassets\DockerHW.StaticWebAssets.xml
+C:\Users\гороховв\source\repos\DockerHW\DockerHW\obj\Debug\netcoreapp3.0\DockerHW.AssemblyInfoInputs.cache
+C:\Users\гороховв\source\repos\DockerHW\DockerHW\obj\Debug\netcoreapp3.0\DockerHW.AssemblyInfo.cs
+C:\Users\гороховв\source\repos\DockerHW\DockerHW\obj\Debug\netcoreapp3.0\DockerHW.RazorTargetAssemblyInfo.cache
